@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+contactdata/
 /.pnp
 .pnp.js
 

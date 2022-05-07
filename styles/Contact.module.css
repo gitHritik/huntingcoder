@@ -1,0 +1,24 @@
+.container{
+    max-width: 45vw;
+    margin: auto;
+}
+.mb3{
+    /* margin: 22px; */
+    display: flex;
+    flex-direction: column;
+}
+.formCheck{
+    border-radius: 4px;
+    padding: 6px;
+}
+.label{
+    margin-bottom: 12px;
+}
+.btn{
+    background: black;
+    color: white;
+    padding: 7px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 12px;
+  }
